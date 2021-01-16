@@ -1,6 +1,6 @@
 <?php
 
-$secret_key = "b9e1d8ed5db8e174bd4eef5d0aacae132719fa0c553d92085d47ff5036ab414f";
+require('config.php');
 
 $data = [
     // Time to Live for Transaction in seconds
