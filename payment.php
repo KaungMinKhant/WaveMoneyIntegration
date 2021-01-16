@@ -27,6 +27,7 @@ $data = [
     // string - Payment Description for Payment Screen from Merchant
     'payment_description' => "Buying things from Wave Merchant"
 ];
+// URL to call to activate user -> https://hook.integromat.com/vivlijuhxjybcful34j3huisdbvj5on2?uid=$_GET['messenger-user-id']
 
 // Secret Key provided by Wave Money
 $secret_key = "b9e1d8ed5db8e174bd4eef5d0aacae132719fa0c553d92085d47ff5036ab414f";
